@@ -1,6 +1,11 @@
 # Hi, I'm Christian 👋
 
 ## Data Analyst | BI Analyst
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
+![BigQuery](https://img.shields.io/badge/BigQuery-Google%20Cloud-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Business%20Intelligence-orange)
 
 Industrial Engineer focused on transforming data into actionable business insights through data analysis, visualization, and business intelligence.
 
