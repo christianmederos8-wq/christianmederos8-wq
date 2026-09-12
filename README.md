@@ -22,7 +22,7 @@ I am currently building practical data projects focused on SQL, Power BI, Excel,
 * **Git & GitHub**
 
 ## 📊 Featured Projects
-¡### 🚚 Logistics Operations & Fleet Performance Analysis
+### 🚚 Logistics Operations & Fleet Performance Analysis
 
 End-to-end logistics analytics project focused on operational efficiency, fleet performance, delivery reliability, fuel costs, maintenance, customer and route performance, and driver safety.
 
