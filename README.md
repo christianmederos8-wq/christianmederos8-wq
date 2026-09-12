@@ -22,6 +22,23 @@ I am currently building practical data projects focused on SQL, Power BI, Excel,
 * **Git & GitHub**
 
 ## 📊 Featured Projects
+¡### 🚚 Logistics Operations & Fleet Performance Analysis
+
+End-to-end logistics analytics project focused on operational efficiency, fleet performance, delivery reliability, fuel costs, maintenance, customer and route performance, and driver safety.
+
+**Tools:** MySQL, SQL, Power BI, Git, GitHub
+
+**Main areas analyzed:**
+
+* Revenue and customer performance
+* Route efficiency
+* Fuel consumption and MPG
+* Fleet maintenance and downtime
+* Delivery delays and detention
+* Driver safety
+* Business KPIs and recommendations
+
+[View Project](https://github.com/christianmederos8-wq/logistics-operations-analysis)
 
 ### 🚖 Uber Operations & Revenue Analysis
 
